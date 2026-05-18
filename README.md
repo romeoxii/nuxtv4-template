@@ -48,7 +48,7 @@ Follow these steps to instantiate a pristine project locally using this template
 1. Clone the Blueprint
 
 - Clone the template repository with a history depth of 1 to keep your new project's history clean:
-  - git clone --depth 1 https://romeoxii/nuxtv4-template.git <my-new-app>
+  - git clone --depth 1 https://github.com/romeoxii/nuxtv4-template.git <my-new-app>
   - cd my-new-app
 
 2. Disconnect and Re-initialize Git
